@@ -9,7 +9,6 @@ El presente apartado describe los Jobs-to-be-Done (JTBD) y los casos de uso prin
 El sistema prioriza la seguridad y confidencialidad de la información mediante autenticación segura y almacenamiento local.
 
 ---
-
 ## Jobs-to-be-Done (JTBD)
 
 | ID | Usuario | Necesidad | Resultado Esperado |
