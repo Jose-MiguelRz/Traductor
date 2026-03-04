@@ -1,8 +1,6 @@
 <img width="8192" height="1266" alt="User Authentication and-2026-03-04-233815" src="https://github.com/user-attachments/assets/09c12594-f95d-4336-9653-9eb68f147710" />
 # Diagrama de Casos de Uso — Sistema Traductor (IA Local)
 
-## Estado
-Borrador
 
 ## Objetivo
 Este documento describe el **diagrama de casos de uso del sistema Traductor**, una aplicación de **traducción asistida por inteligencia artificial con arquitectura local-first**.
